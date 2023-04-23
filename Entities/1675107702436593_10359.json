@@ -1,0 +1,79 @@
+{
+    "1667961890262400:413381": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "26b5600591ba238fbcf5109847db6d02"
+                    },
+                    "v": "1675107702436738:10498"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "42335",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "49509",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1675107702436737:10497"
+        }
+    },
+    "1675107702436593:10359": {
+        "IResourceController": {
+            "name": "ground_grid",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1667961890262400:413381",
+            "fileId": "1675107702436735:10495",
+            "originalId": "1675107702436736:10496",
+            "publicId": "1675107702436799:10562",
+            "expected_hash": "f5b0699973a8d5e875d1028d5eab5c19",
+            "additional": {
+                "originHash": "26b5600591ba238fbcf5109847db6d02"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1667961890262400:413381",
+            "name": "Files/File163.jpg",
+            "flags": 1
+        }
+    },
+    "1675107702436735:10495": {
+        "IFileManager": {
+            "path": "Files/File_1675107702436735_10495.pvr"
+        }
+    },
+    "1675107702436736:10496": {
+        "IFileManager": {
+            "path": "Files/File_1675107702436736_10496.png"
+        }
+    },
+    "1675107702436737:10497": {
+        "IFileManager": {
+            "path": "Files/File_1675107702436737_10497.png"
+        }
+    },
+    "1675107702436738:10498": {
+        "IFileManager": {
+            "path": "Files/File_1675107702436738_10498.pvr"
+        }
+    },
+    "1675107702436799:10562": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/ground_grid.png",
+                "hash": "26b5600591ba238fbcf5109847db6d02"
+            }
+        }
+    }
+}

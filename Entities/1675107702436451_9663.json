@@ -1,0 +1,79 @@
+{
+    "1518038638398687:2010919": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "37a9d0639893e42ffb7433a2868b60c1"
+                    },
+                    "v": "1675107702436681:10442"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "737",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "1858",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1675107702436670:10430"
+        }
+    },
+    "1675107702436451:9663": {
+        "IResourceController": {
+            "name": "colors [EDIT_ME]",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1518038638398687:2010919",
+            "fileId": "1675107702436611:10371",
+            "originalId": "1675107702436675:10436",
+            "publicId": "1675107702436785:10507",
+            "expected_hash": "db06ebde772acee38180fdde07eaf8f1",
+            "additional": {
+                "originHash": "37a9d0639893e42ffb7433a2868b60c1"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1518038638398687:2010919",
+            "name": "/Resources/Resource656.png",
+            "flags": 1
+        }
+    },
+    "1675107702436611:10371": {
+        "IFileManager": {
+            "path": "Files/File_1675107702436611_10371.pvr"
+        }
+    },
+    "1675107702436670:10430": {
+        "IFileManager": {
+            "path": "Files/File_1675107702436670_10430.png"
+        }
+    },
+    "1675107702436675:10436": {
+        "IFileManager": {
+            "path": "Files/File_1675107702436675_10436.png"
+        }
+    },
+    "1675107702436681:10442": {
+        "IFileManager": {
+            "path": "Files/File_1675107702436681_10442.pvr"
+        }
+    },
+    "1675107702436785:10507": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/colors [EDIT_ME].png",
+                "hash": "37a9d0639893e42ffb7433a2868b60c1"
+            }
+        }
+    }
+}

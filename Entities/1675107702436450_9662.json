@@ -1,0 +1,33 @@
+{
+    "1675107702436450:9662": {
+        "IResourceController": {
+            "name": "PathTapAnim",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1517946634876673:921005",
+            "fileId": "1675107702436610:10370",
+            "publicId": "1675107702436784:10503",
+            "expected_hash": "7bf13f1f463649adf3819514e872ebef"
+        },
+        "IResourceManager": {
+            "uid": "1517946634876673:921005",
+            "name": "/Resources/Resource655.js",
+            "flags": 1
+        }
+    },
+    "1675107702436610:10370": {
+        "IFileManager": {
+            "path": "Files/File_1675107702436610_10370.js"
+        }
+    },
+    "1675107702436784:10503": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/PathTapAnim.js",
+                "hash": "7bf13f1f463649adf3819514e872ebef"
+            }
+        }
+    }
+}

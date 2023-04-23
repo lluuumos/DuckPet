@@ -1,0 +1,33 @@
+{
+    "1675107702436450:9659": {
+        "IResourceController": {
+            "name": "FollowPathAnim",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1516661400592946:53394",
+            "fileId": "1675107702436607:10367",
+            "publicId": "1675107702436784:10502",
+            "expected_hash": "256d8793633963ed38185db2f1cb97c4"
+        },
+        "IResourceManager": {
+            "uid": "1516661400592946:53394",
+            "name": "/Resources/Resource175.js",
+            "flags": 1
+        }
+    },
+    "1675107702436607:10367": {
+        "IFileManager": {
+            "path": "Files/File_1675107702436607_10367.js"
+        }
+    },
+    "1675107702436784:10502": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/FollowPathAnim.js",
+                "hash": "256d8793633963ed38185db2f1cb97c4"
+            }
+        }
+    }
+}

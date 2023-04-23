@@ -1,0 +1,17 @@
+{
+    "1681215496373931:1030429": {
+        "IResourceController": {
+            "name": "Audio From Microphone",
+            "type": 5,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1681215496373790:1030428"
+        },
+        "IResourceManager": {
+            "uid": "1681215496373790:1030428",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

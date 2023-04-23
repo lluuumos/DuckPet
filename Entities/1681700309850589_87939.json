@@ -1,0 +1,24 @@
+{
+    "1681700309850589:87939": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1681700311662506:88524",
+            "resources": [
+                "1681700309854693:87941",
+                "1681700310433473:88009",
+                "1681700310892322:88071"
+            ]
+        }
+    },
+    "1681700311662506:88524": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Duck/Materials"
+            }
+        }
+    }
+}

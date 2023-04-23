@@ -1,0 +1,17 @@
+{
+    "1681215547081199:1057162": {
+        "IResourceController": {
+            "name": "Audio Output",
+            "type": 5,
+            "subtype": 2,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1681215547081186:1057161"
+        },
+        "IResourceManager": {
+            "uid": "1681215547081186:1057161",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

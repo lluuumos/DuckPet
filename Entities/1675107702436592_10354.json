@@ -1,0 +1,42 @@
+{
+    "1675107702436592:10354": {
+        "IResourceController": {
+            "name": "arrow_draw [EDIT_TEXTURES]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1623373948093689:6717043",
+            "fileId": "1675107702436689:10450",
+            "originalId": "1675107702436690:10451",
+            "publicId": "1675107702436798:10559",
+            "expected_hash": "34080141721512e5bf36ca7f9086945f",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1623373948093689:6717043",
+            "name": "Files/File_1675107702436689_10450",
+            "flags": 1
+        }
+    },
+    "1675107702436689:10450": {
+        "IFileManager": {
+            "path": "Files/File_1675107702436689_10450"
+        }
+    },
+    "1675107702436690:10451": {
+        "IFileManager": {
+            "path": "Files/File_1675107702436690_10451.lsmat"
+        }
+    },
+    "1675107702436798:10559": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/arrow_draw [EDIT_TEXTURES].lsmat",
+                "hash": "def2e86abcdfe5accaf22a1c7bb055be"
+            }
+        }
+    }
+}

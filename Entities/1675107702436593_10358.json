@@ -1,0 +1,39 @@
+{
+    "1675107702436593:10358": {
+        "IResourceController": {
+            "name": "ground_grid",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1667961890141183:413317",
+            "fileId": "1675107702436733:10493",
+            "originalId": "1675107702436734:10494",
+            "publicId": "1675107702436799:10563",
+            "expected_hash": "4a430f8ef84f6261fe908b0b1f0ed35a"
+        },
+        "IResourceManager": {
+            "uid": "1667961890141183:413317",
+            "name": "Files/File_1675107702436733_10493",
+            "flags": 1
+        }
+    },
+    "1675107702436733:10493": {
+        "IFileManager": {
+            "path": "Files/File_1675107702436733_10493"
+        }
+    },
+    "1675107702436734:10494": {
+        "IFileManager": {
+            "path": "Files/File_1675107702436734_10494.lsmat"
+        }
+    },
+    "1675107702436799:10563": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/ground_grid.lsmat",
+                "hash": "1de28b1af6d5abf35262739972df5936"
+            }
+        }
+    }
+}

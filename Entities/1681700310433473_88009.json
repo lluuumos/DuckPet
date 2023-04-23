@@ -1,0 +1,39 @@
+{
+    "1681700310429933:88008": {
+        "IFileManager": {
+            "path": "Files/File_1681700310429933_88008"
+        }
+    },
+    "1681700310433473:88009": {
+        "IResourceController": {
+            "name": "材质 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1681700310433482:88010",
+            "fileId": "1681700310429933:88008",
+            "originalId": "1681700310462879:88016",
+            "publicId": "1681700311664948:88526",
+            "expected_hash": "6b326b5020b0c947ad74a59423700484"
+        },
+        "IResourceManager": {
+            "uid": "1681700310433482:88010",
+            "name": "Files/File_1681700310429933_88008",
+            "flags": 1
+        }
+    },
+    "1681700310462879:88016": {
+        "IFileManager": {
+            "path": "Files/File_1681700310462879_88016.lsmat"
+        }
+    },
+    "1681700311664948:88526": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Duck/Materials/材质 2.lsmat",
+                "hash": "1008ef41f3d7035614c49a2c802fc61a"
+            }
+        }
+    }
+}

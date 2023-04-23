@@ -1,0 +1,524 @@
+{
+    "lens_id": "",
+    "document_id": "etdvy80r54XzXBjkkTI5",
+    "original_document_id": "CNzm1oWfh338ED7V8rUt",
+    "version": "31",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "true",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "40",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "40",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "InspectorUiComponent": "",
+        "MapUiComponent": {
+            "mapPinPoints": ""
+        },
+        "Material::UiComponent": "",
+        "MetaInfoUIComponent": {
+            "hints": [
+                "lens_hint_draw_with_your_finger"
+            ],
+            "lens": "Interactive Path",
+            "applicability": "2",
+            "lens_descriptors": "",
+            "sg": "false",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "ObjectTracking3DUIComponent": "",
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Cactus.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 2.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Cactus.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 2.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "ResourceUiComponent": "",
+        "SceneTreeUiComponent": "",
+        "Script::UiComponent": "",
+        "VFX::UiComponent": ""
+    },
+    "model": {
+        "IFileManager": "",
+        "IResourceManager": {
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "RenderOrderComponent": "",
+        "WorldComponent": {
+            "sceneFile": "Scene",
+            "sceneType": "splitScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "AssetImportController": {
+            "itemUidToID": ""
+        },
+        "Compression::IController": "",
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        },
+        "IResourceController": "",
+        "InspectorController": "",
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1681700311704582:88698",
+                        "v": {
+                            "prefab": "1681700311455373:88289",
+                            "mapping": [
+                                {
+                                    "k": "1681700311343057:88131",
+                                    "v": "1681700311704582:88698"
+                                },
+                                {
+                                    "k": "1681700311370061:88133",
+                                    "v": "1681700311710880:88779"
+                                },
+                                {
+                                    "k": "1681700311373516:88135",
+                                    "v": "1681700311714669:88805"
+                                },
+                                {
+                                    "k": "1681700311377245:88161",
+                                    "v": "1681700311721844:88861"
+                                },
+                                {
+                                    "k": "1681700311381117:88163",
+                                    "v": "1681700311725843:88881"
+                                },
+                                {
+                                    "k": "1681700311387730:88220",
+                                    "v": "1681700311734685:88990"
+                                },
+                                {
+                                    "k": "1681700311391610:88222",
+                                    "v": "1681700311738283:89005"
+                                },
+                                {
+                                    "k": "1681700311393065:88233",
+                                    "v": "1681700311739945:89016"
+                                },
+                                {
+                                    "k": "1681700311393880:88236",
+                                    "v": "1681700311740708:89019"
+                                },
+                                {
+                                    "k": "1681700311394636:88239",
+                                    "v": "1681700311742795:89025"
+                                },
+                                {
+                                    "k": "1681700311397999:88241",
+                                    "v": "1681700311746336:89027"
+                                },
+                                {
+                                    "k": "1681700311401080:88243",
+                                    "v": "1681700311749381:89029"
+                                },
+                                {
+                                    "k": "1681700311404095:88245",
+                                    "v": "1681700311752337:89031"
+                                },
+                                {
+                                    "k": "1681700311407515:88249",
+                                    "v": "1681700311755795:89035"
+                                },
+                                {
+                                    "k": "1681700311411378:88251",
+                                    "v": "1681700311755340:89033"
+                                },
+                                {
+                                    "k": "1681700311411976:88253",
+                                    "v": "1681700311761859:89040"
+                                },
+                                {
+                                    "k": "1681700311415517:88255",
+                                    "v": "1681700311764703:89042"
+                                },
+                                {
+                                    "k": "1681700311419087:88257",
+                                    "v": "1681700311771101:89048"
+                                },
+                                {
+                                    "k": "1681700311422474:88259",
+                                    "v": "1681700311776252:89053"
+                                },
+                                {
+                                    "k": "1681700311426175:88261",
+                                    "v": "1681700311780229:89057"
+                                },
+                                {
+                                    "k": "1681700311429418:88263",
+                                    "v": "1681700311783684:89061"
+                                },
+                                {
+                                    "k": "1681700311432434:88265",
+                                    "v": "1681700311783310:89059"
+                                },
+                                {
+                                    "k": "1681700311432909:88267",
+                                    "v": "1681700311779861:89055"
+                                },
+                                {
+                                    "k": "1681700311433288:88269",
+                                    "v": "1681700311775622:89051"
+                                },
+                                {
+                                    "k": "1681700311433634:88271",
+                                    "v": "1681700311791874:89067"
+                                },
+                                {
+                                    "k": "1681700311436653:88273",
+                                    "v": "1681700311794807:89069"
+                                },
+                                {
+                                    "k": "1681700311440023:88275",
+                                    "v": "1681700311797732:89071"
+                                },
+                                {
+                                    "k": "1681700311444034:88279",
+                                    "v": "1681700311804477:89078"
+                                },
+                                {
+                                    "k": "1681700311447394:88281",
+                                    "v": "1681700311808338:89080"
+                                },
+                                {
+                                    "k": "1681700311450495:88283",
+                                    "v": "1681700311811692:89082"
+                                },
+                                {
+                                    "k": "1681700311453527:88285",
+                                    "v": "1681700311709764:88770"
+                                },
+                                {
+                                    "k": "1681700311454195:88287",
+                                    "v": "1681700311710439:88776"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1681700311455373:88289",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1681700311343057:88131"
+                        },
+                        {
+                            "k": [
+                                "Camera"
+                            ],
+                            "v": "1681700311377245:88161"
+                        },
+                        {
+                            "k": [
+                                "Camera",
+                                "Component.Camera"
+                            ],
+                            "v": "1681700311381117:88163"
+                        },
+                        {
+                            "k": [
+                                "Component.AnimationMixer"
+                            ],
+                            "v": "1681700311454195:88287"
+                        },
+                        {
+                            "k": [
+                                "Component.Skin"
+                            ],
+                            "v": "1681700311453527:88285"
+                        },
+                        {
+                            "k": [
+                                "Light"
+                            ],
+                            "v": "1681700311370061:88133"
+                        },
+                        {
+                            "k": [
+                                "Light",
+                                "Component.LightSource"
+                            ],
+                            "v": "1681700311373516:88135"
+                        },
+                        {
+                            "k": [
+                                "骨架"
+                            ],
+                            "v": "1681700311394636:88239"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone"
+                            ],
+                            "v": "1681700311397999:88241"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone",
+                                "Bone.001"
+                            ],
+                            "v": "1681700311401080:88243"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone",
+                                "Bone.001",
+                                "Bone.007"
+                            ],
+                            "v": "1681700311404095:88245"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone",
+                                "Bone.001",
+                                "Bone.007",
+                                "Bone.007_end"
+                            ],
+                            "v": "1681700311407515:88249"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone",
+                                "Bone.001",
+                                "Bone.007",
+                                "Component.Animation"
+                            ],
+                            "v": "1681700311411378:88251"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone",
+                                "Bone.003"
+                            ],
+                            "v": "1681700311411976:88253"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone",
+                                "Bone.003",
+                                "Bone.003_end"
+                            ],
+                            "v": "1681700311415517:88255"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone.002"
+                            ],
+                            "v": "1681700311419087:88257"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone.002",
+                                "Bone.004"
+                            ],
+                            "v": "1681700311422474:88259"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone.002",
+                                "Bone.004",
+                                "Bone.010"
+                            ],
+                            "v": "1681700311426175:88261"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone.002",
+                                "Bone.004",
+                                "Bone.010",
+                                "Bone.010_end"
+                            ],
+                            "v": "1681700311429418:88263"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone.002",
+                                "Bone.004",
+                                "Bone.010",
+                                "Component.Animation"
+                            ],
+                            "v": "1681700311432434:88265"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone.002",
+                                "Bone.004",
+                                "Component.Animation"
+                            ],
+                            "v": "1681700311432909:88267"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone.002",
+                                "Component.Animation"
+                            ],
+                            "v": "1681700311433288:88269"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone.005"
+                            ],
+                            "v": "1681700311433634:88271"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone.005",
+                                "Bone.006"
+                            ],
+                            "v": "1681700311436653:88273"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone.005",
+                                "Bone.006",
+                                "Bone.006_end"
+                            ],
+                            "v": "1681700311440023:88275"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone.008"
+                            ],
+                            "v": "1681700311444034:88279"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone.008",
+                                "Bone.009"
+                            ],
+                            "v": "1681700311447394:88281"
+                        },
+                        {
+                            "k": [
+                                "骨架",
+                                "Bone.008",
+                                "Bone.009",
+                                "Bone.009_end"
+                            ],
+                            "v": "1681700311450495:88283"
+                        },
+                        {
+                            "k": [
+                                "鹅body"
+                            ],
+                            "v": "1681700311387730:88220"
+                        },
+                        {
+                            "k": [
+                                "鹅body",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1681700311391610:88222"
+                        },
+                        {
+                            "k": [
+                                "鹅body",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1681700311393065:88233"
+                        },
+                        {
+                            "k": [
+                                "鹅body",
+                                "Component.RenderMeshVisual2"
+                            ],
+                            "v": "1681700311393880:88236"
+                        }
+                    ]
+                }
+            ]
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        }
+    },
+    "templateName": "Interactive Path",
+    "templateUrl": "https:\/\/downloads.ctfassets.net\/xyb83mibqg29\/fQU0g4quGiJiwX5YRfCOF\/73c497f9c1b12b91d42fb33cc0a4ac6d\/Interactive_Path.zip"
+}

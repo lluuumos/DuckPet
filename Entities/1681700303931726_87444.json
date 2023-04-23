@@ -1,0 +1,59 @@
+{
+    "1681700303931726:87444": {
+        "IResourceController": {
+            "name": "Duck",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1681700311505366:88506",
+            "publicId": "1681700311657747:88523",
+            "expected_hash": "3fafeecb7edd7806bd4a2117e777bc10",
+            "resources": [
+                "1681700309708272:87848",
+                "1681700309849127:87894",
+                "1681700309850589:87939",
+                "1681700311455735:88413"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "材质",
+                        "v": "1681700309854701:87942"
+                    },
+                    {
+                        "k": "材质 2",
+                        "v": "1681700310433482:88010"
+                    },
+                    {
+                        "k": "材质 3",
+                        "v": "1681700310892330:88072"
+                    }
+                ]
+            }
+        }
+    },
+    "1681700311505366:88506": {
+        "IFileManager": {
+            "path": "Files/File_1681700311505366_88506.fbx"
+        }
+    },
+    "1681700311657747:88523": {
+        "IResourceController": {
+            "public": {
+                "path": "Duck.fbx",
+                "hash": "3fafeecb7edd7806bd4a2117e777bc10"
+            }
+        }
+    }
+}

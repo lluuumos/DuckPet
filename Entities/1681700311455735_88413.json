@@ -1,0 +1,30 @@
+{
+    "1681700311455735:88413": {
+        "IResourceController": {
+            "name": "Duck",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1681700311455373:88289",
+            "fileId": "1681700311489434:88505",
+            "originalId": "1681700339300793:116726",
+            "expected_hash": "3ff65a16b250c822cb9e65565d6f27bc"
+        },
+        "IResourceManager": {
+            "uid": "1681700311455373:88289",
+            "name": "Duck",
+            "flags": 0
+        }
+    },
+    "1681700311489434:88505": {
+        "IFileManager": {
+            "path": "Files/File_1681700311489434_88505.oprfb"
+        }
+    },
+    "1681700339300793:116726": {
+        "IFileManager": {
+            "path": "Files/File_1681700339300793_116726.oprfb"
+        }
+    }
+}

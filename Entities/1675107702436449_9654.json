@@ -1,0 +1,33 @@
+{
+    "1675107702436449:9654": {
+        "IResourceController": {
+            "name": "IdleAnim",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1499276508720146:1345",
+            "fileId": "1675107702436602:10362",
+            "publicId": "1675107702436784:10501",
+            "expected_hash": "8a6af7e674a7b56c8aaebc415d7c8fd1"
+        },
+        "IResourceManager": {
+            "uid": "1499276508720146:1345",
+            "name": "/Resources/Resource14.js",
+            "flags": 1
+        }
+    },
+    "1675107702436602:10362": {
+        "IFileManager": {
+            "path": "Files/File_1675107702436602_10362.js"
+        }
+    },
+    "1675107702436784:10501": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/IdleAnim.js",
+                "hash": "8a6af7e674a7b56c8aaebc415d7c8fd1"
+            }
+        }
+    }
+}
